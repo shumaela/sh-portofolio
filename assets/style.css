@@ -67,6 +67,14 @@ p {
     margin-bottom: 20px;
 }
 
+.project-card img {
+    max-width: 60%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+
 /* .project {
     flex: 0 0 calc(48% - 20px);
     margin-bottom: 20px;
