@@ -10,7 +10,6 @@ body {
     flex: 1;
 }
 
-
 header {
     background-color: whitesmoke;
     color: var(--header-text-color);
@@ -45,8 +44,6 @@ header {
     display: inline-block;
     margin-right: 20px;
 }
-
-
 
 .about-me,
 .projects,
@@ -91,7 +88,6 @@ p {
     font-weight: bold;
     font-size: 17px;
 }
-
 
 
 /* image sizing/placement inside of project cards */
